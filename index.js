@@ -38,3 +38,7 @@ const alphabetLearningStrings = words.map((word) => {
     return console.log(`${word[0].toUpperCase()} is for ${word}`)
 })
 
+const alphabetLearningStrings = words.map((word) => {
+    return console.log(`${word[0].toUpperCase()} is for ${word}`)
+})
+
